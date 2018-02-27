@@ -1,0 +1,45 @@
+body{
+	background-color: #C0C0C0;
+	padding: 0px;
+	margin: 0px;
+}
+
+.container{
+	width:90%;
+	margin:20px auto;
+	background-color: #DCDCDC;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.header{
+	padding: 20px;
+	border:1px solid black;
+	margin: 5px auto;
+	background-color: #ffffff;
+}
+
+#header-left{
+	float: left;
+	width: 50%;
+
+}
+
+#header-right{
+	float: right;
+	width: 50%;
+}
+
+.menu{
+	padding:10px;
+	border: 1px solid white;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{
+	display:inline;
+	padding-right: 10px;
+}
